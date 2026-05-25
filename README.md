@@ -7,10 +7,6 @@
 ![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=flat-square)
 
 > **Analyzing synthetic mobile money transaction data to detect fraudulent activities using SQL, Power BI, and DAX — surfacing fraud patterns, high-risk users, and transaction anomalies.**
-
-<!-- Add a screenshot of your Power BI dashboard below -->
-<!-- ![Dashboard Preview](POWERBI_Dashboards/dashboard_screenshot.png) -->
-
 ---
 
 ##  Table of Contents
@@ -74,7 +70,7 @@ FraudLens360/
 
 ##  Key Insights
 
-> *(Fill in with your actual findings — examples below to guide you)*
+> 
 
 -  **Fraud Concentration** — Fraudulent transactions were almost exclusively of type **Transfer** and **Cash Out**, with other types showing near-zero fraud rates
 -  **High-Risk Time Steps** — Fraud activity spiked at specific time steps, suggesting coordinated or scripted attack patterns
@@ -83,14 +79,6 @@ FraudLens360/
 -  **Transaction Amount Patterns** — Fraudulent transactions tended to cluster around specific amount ranges, indicating possible threshold-based behavior by fraudsters
 
 ---
-
-##  Dashboard Preview
-
-> *(Add a screenshot of your Power BI dashboard here for maximum impact)*
-> 
-> To add: take a screenshot of your dashboard → save it in `POWERBI_Dashboards/` → replace the line below
-
-<!-- ![Power BI Dashboard](POWERBI_Dashboards/dashboard_screenshot.png) -->
 
 **Dashboard includes:**
 - KPI cards for total transactions, fraud count, fraud rate, and flagged transactions
